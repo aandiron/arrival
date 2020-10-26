@@ -1,5 +1,5 @@
 README.md
-Last modified: Mon Oct 26, 2020  06:44PM
+Last modified: Mon Oct 26, 2020  06:49PM
 
 # Arrival
 * By A. Andiron
@@ -12,6 +12,9 @@ Last modified: Mon Oct 26, 2020  06:44PM
 
 ## Compilation notes:
 * pdflatex ./arrival_0.4.tex
+* Requires titlesec latex package 
+	* in texlive-latexextra on Arch Linux
+	* in texlive-latex-extra on Ubunutu
 
 ## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
