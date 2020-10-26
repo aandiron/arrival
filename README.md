@@ -1,5 +1,5 @@
 README.md
-Last modified: Mon Oct 26, 2020  06:49PM
+Last modified: Mon Oct 26, 2020  07:31PM
 
 # Arrival
 * By A. Andiron
@@ -15,6 +15,7 @@ Last modified: Mon Oct 26, 2020  06:49PM
 * Requires titlesec latex package 
 	* in texlive-latexextra on Arch Linux
 	* in texlive-latex-extra on Ubunutu
+* Note .tex file is the canonical version. .md and .rtf are derived from it.
 
 ## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
